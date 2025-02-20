@@ -1,6 +1,8 @@
 # ScrapeBot
 
-Este projeto realiza **web scraping** para extrair dados de um site e gerar automaticamente um arquivo **Excel (.xlsx)** com as informações coletadas.
+Este projeto foi desenvolvido como parte de um estudo de web scraping. Ele foi criado seguindo os vídeos do canal [Wellinson Gabriel](https://www.youtube.com/@wellinson) para aprender como realizar web scraping com java.
+
+O ScrapeBot realiza o processo de coleta de dados e geração de arquivos .xlsx de maneira simples.
 
 ---
 
