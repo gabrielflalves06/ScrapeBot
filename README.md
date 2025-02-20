@@ -36,11 +36,11 @@ Este projeto realiza **web scraping** para extrair dados de um site e gerar auto
    java -cp bin:libs/* controller.WebScraping
    ```
 
-O arquivo **Produtos.xlsx** será gerado na pasta do projeto. 📂
+O arquivo **Produtos.xlsx** será gerado na pasta do projeto.
 
 ---
 
-## 🔬 Como Funciona?
+## Como Funciona?
 
 1. O script abre o navegador Microsoft Edge usando Selenium.
 2. Lê o arquivo `itens.txt` para buscar os produtos desejados.
@@ -48,6 +48,6 @@ O arquivo **Produtos.xlsx** será gerado na pasta do projeto. 📂
 4. Extrai informações dos produtos, incluindo nome e preço.
 5. Organiza os dados e gera um arquivo Excel chamado `Produtos.xlsx`.
 
-> ⚠️ **Nota:** Dependendo do site alvo, pode ser necessário ajustes.
+> **Nota:** Dependendo do site alvo, pode ser necessário ajustes.
 
 ---
