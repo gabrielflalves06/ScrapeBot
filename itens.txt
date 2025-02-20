@@ -1,0 +1,22 @@
+Monitor
+Teclado
+Mouse
+Gabinete
+processador
+Memoria RAM
+Placa-mae
+Placa de video
+Fonte de alimentacao
+SSD
+HD
+Fones de ouvido
+Microfone
+Webcam
+Mesa digitalizadora
+Nobreak
+Cooler
+Water Cooler
+Carregador
+Cabo USB
+Power Bank
+Smartwatch
