@@ -41,13 +41,13 @@ O ScrapeBot realiza o processo de coleta de dados e geração de arquivos .xlsx 
    - Faça o download do [Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) e coloque o executável na pasta `resources/`.
 4. **Compile o projeto**
    ```sh
-   javac -cp .:libs/* src/controller/WebScraping.java -d bin
+   javac WebScraping.java
    ```
-5. **Crie o arquivo `itens.txt` com os produtos a serem pesquisados**
+5. **Modifique o arquivo `itens.txt` com os produtos a serem pesquisados**
    - Cada linha do arquivo deve conter um nome de produto.
 6. **Execute o script**
    ```sh
-   java -cp bin:libs/* controller.WebScraping
+   java WebScraping
    ```
 
 O arquivo **Produtos.xlsx** será gerado na pasta do projeto.
