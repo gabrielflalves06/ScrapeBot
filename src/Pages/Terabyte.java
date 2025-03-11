@@ -11,13 +11,13 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import controller.CriarPlanilhas;
+import controller.CriarJson;
 import controller.WebScraping;
 import model.PlacasDeVideo;
 
 public class Terabyte extends WebScraping {
 
-    public static void scrapigTerabyte(WebDriver driver) throws InterruptedException {
+    public static void scrapingTerabyte(WebDriver driver) throws InterruptedException {
 
         ArrayList<PlacasDeVideo> Placas = new ArrayList<>();
 
@@ -26,7 +26,7 @@ public class Terabyte extends WebScraping {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
         WebElement botaoPopUp = wait.until(ExpectedConditions.elementToBeClickable(
-                By.xpath("//button[@class=\"tsG0HQh7bcmTha7pyanx-box-btn tsG0HQh7bcmTha7pyanx-btn-close\"]")));
+                By.xpath("//button[@class=\"tsG0HQh7bcmTha7pyanx-box-btn tsG0HQh7bcmTha7pyanx-btn-close\"]")));       
         botaoPopUp.click();
 
         WebElement botaoPropagando = wait
@@ -37,7 +37,8 @@ public class Terabyte extends WebScraping {
                 .until(ExpectedConditions.elementToBeClickable(By.xpath("//button[@class='btfchar']")));
         botaoContinuar.click();
 
-        Thread.sleep(10000);
+        Thread.sleep(30000);
+
         while (true) {
             try {
                 WebElement button = driver.findElement(By.xpath("//a[@class='arrow-down btn btn-pdmore']"));
@@ -45,13 +46,11 @@ public class Terabyte extends WebScraping {
                 Thread.sleep(1000);
                 button.click();
                 Thread.sleep(5000);
-                
             } catch (Exception e) {
-                System.out.println("acabou as paginas");
                 break;
             }
         }
-
+        
         List<WebElement> aVista = driver.findElements(By.xpath("//div[@class=\"product-item__new-price\"]"));
         List<WebElement> links = driver.findElements(By.cssSelector(".product-item__name"));
 
@@ -65,14 +64,12 @@ public class Terabyte extends WebScraping {
         for (int j = 0; j < nome.size(); j++) {
             if (j < aVista.size()) {
                 Placas.add(new PlacasDeVideo(nome.get(j),
-                        aVista.get(j).getText(),
+                        aVista.get(j).getText().replace("à vista", ""),
                         UrlProduto.get(j)));
             }
         }
 
-        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
-        System.out.println("criando o arquivo");
-        CriarPlanilhas.criarPlanilhas(Placas, "Terabyte.xlsx");
+        CriarJson.criarArquivoJSON(Placas, "Terabyte.json");
     }
 
 }

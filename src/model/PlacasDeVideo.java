@@ -2,7 +2,7 @@ package model;
 
 public class PlacasDeVideo {
     private String nome;
-    private String preco;
+    public String preco;
     private String link;
 
     

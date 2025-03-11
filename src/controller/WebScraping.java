@@ -31,8 +31,8 @@ public class WebScraping {
         driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 
         try {
-            Kabum.scrapigKabum(driver);
-            Terabyte.scrapigTerabyte(driver);
+            Kabum.scrapingKabum(driver);
+            Terabyte.scrapingTerabyte(driver);
         } catch (Exception e) {
             e.printStackTrace();
         }finally{
