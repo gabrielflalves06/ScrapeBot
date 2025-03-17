@@ -5,6 +5,8 @@ public class PlacasDeVideo {
     public String preco;
     private String link;
 
+    public PlacasDeVideo() {
+    }
     
     public PlacasDeVideo(String nome, String preco, String link) {
         this.nome = nome;

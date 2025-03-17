@@ -1,6 +1,5 @@
 package Pages;
 
-import java.time.Duration;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,8 +23,6 @@ public class Kabum extends WebScraping {
                     i);
             driver.get(url);
 
-            driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
-
             List<WebElement> aVista = driver.findElements(By.cssSelector(".priceCard"));
             List<WebElement> links = driver.findElements(By.cssSelector(".productLink"));
             List<WebElement> nome = driver.findElements(By.cssSelector(".nameCard"));
@@ -41,6 +38,6 @@ public class Kabum extends WebScraping {
                         UrlProduto.get(j)));
             }
         }
-        CriarJson.criarArquivoJSON(Placas, "Kabum.json");
+        CriarJson.criarArquivoJSON(Placas, "Planilhas/Kabum.json");
     }
 }

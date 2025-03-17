@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 
+import Pages.Amazon;
 import Pages.Kabum;
 import Pages.Terabyte;
 
@@ -31,8 +32,9 @@ public class WebScraping {
         driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 
         try {
-            Kabum.scrapingKabum(driver);
-            Terabyte.scrapingTerabyte(driver);
+/*             Kabum.scrapingKabum(driver);
+            Terabyte.scrapingTerabyte(driver); */
+            Amazon.scrapingAmazon(driver);
         } catch (Exception e) {
             e.printStackTrace();
         }finally{

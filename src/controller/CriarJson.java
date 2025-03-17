@@ -10,9 +10,8 @@ import model.PlacasDeVideo;
 public class CriarJson {
     public static void criarArquivoJSON(ArrayList<PlacasDeVideo> produtos, String nomeDoArquivo) {
         ObjectMapper objectMapper = new ObjectMapper();
-
         try {
-            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File("Planilhas/" + nomeDoArquivo), produtos);
+            objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(nomeDoArquivo), produtos);
         } catch (Exception e) {
             e.printStackTrace();
         }

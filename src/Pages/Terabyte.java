@@ -56,6 +56,7 @@ public class Terabyte extends WebScraping {
 
         List<String> UrlProduto = new ArrayList<>();
         List<String> nome = new ArrayList<>();
+        
         for (WebElement link : links) {
             UrlProduto.add(link.getAttribute("href"));
             nome.add(link.getAttribute("title"));
@@ -69,7 +70,7 @@ public class Terabyte extends WebScraping {
             }
         }
 
-        CriarJson.criarArquivoJSON(Placas, "Terabyte.json");
+        CriarJson.criarArquivoJSON(Placas, "Planilhas/Terabyte.json");
     }
 
 }
