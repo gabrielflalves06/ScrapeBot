@@ -23,19 +23,20 @@ public class Kabum extends WebScraping {
                     i);
             driver.get(url);
 
-            List<WebElement> aVista = driver.findElements(By.cssSelector(".priceCard"));
+            List<WebElement> preco = driver.findElements(By.cssSelector(".priceCard"));
             List<WebElement> links = driver.findElements(By.cssSelector(".productLink"));
             List<WebElement> nome = driver.findElements(By.cssSelector(".nameCard"));
 
-            List<String> UrlProduto = new ArrayList<>();
+            List<String> urlProduto = new ArrayList<>();
             for (WebElement link : links) {
-                UrlProduto.add(link.getAttribute("href"));
+                urlProduto.add(link.getAttribute("href"));
             }
 
-            for (int j = 0; j < nome.size(); j++) {
+            int tamanhoMinimo = Math.min(Math.min(nome.size(), preco.size()), urlProduto.size());
+            for (int j = 0; j < tamanhoMinimo; j++) {
                 Placas.add(new PlacasDeVideo(nome.get(j).getText(),
-                        aVista.get(j).getText(),
-                        UrlProduto.get(j)));
+                        preco.get(j).getText(),
+                        urlProduto.get(j)));
             }
         }
         CriarJson.criarArquivoJSON(Placas, "Planilhas/Kabum.json");

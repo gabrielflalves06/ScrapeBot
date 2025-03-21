@@ -26,7 +26,7 @@ public class Terabyte extends WebScraping {
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 
         WebElement botaoPopUp = wait.until(ExpectedConditions.elementToBeClickable(
-                By.xpath("//button[@class=\"tsG0HQh7bcmTha7pyanx-box-btn tsG0HQh7bcmTha7pyanx-btn-close\"]")));       
+                By.xpath("//button[@class=\"tsG0HQh7bcmTha7pyanx-box-btn tsG0HQh7bcmTha7pyanx-btn-close\"]")));
         botaoPopUp.click();
 
         WebElement botaoPropagando = wait
@@ -50,24 +50,25 @@ public class Terabyte extends WebScraping {
                 break;
             }
         }
-        
-        List<WebElement> aVista = driver.findElements(By.xpath("//div[@class=\"product-item__new-price\"]"));
+
+        List<WebElement> preco = driver.findElements(By.xpath("//div[@class=\"product-item__new-price\"]"));
         List<WebElement> links = driver.findElements(By.cssSelector(".product-item__name"));
 
-        List<String> UrlProduto = new ArrayList<>();
+        List<String> urlProduto = new ArrayList<>();
         List<String> nome = new ArrayList<>();
-        
+
         for (WebElement link : links) {
-            UrlProduto.add(link.getAttribute("href"));
+            urlProduto.add(link.getAttribute("href"));
             nome.add(link.getAttribute("title"));
         }
 
-        for (int j = 0; j < nome.size(); j++) {
-            if (j < aVista.size()) {
-                Placas.add(new PlacasDeVideo(nome.get(j),
-                        aVista.get(j).getText().replace("à vista", ""),
-                        UrlProduto.get(j)));
-            }
+        int tamanhoMinimo = Math.min(Math.min(nome.size(), preco.size()), urlProduto.size());
+
+        for (int j = 0; j < tamanhoMinimo; j++) {
+            Placas.add(new PlacasDeVideo(nome.get(j),
+                    preco.get(j).getText().replace("à vista", ""),
+                    urlProduto.get(j)));
+
         }
 
         CriarJson.criarArquivoJSON(Placas, "Planilhas/Terabyte.json");
