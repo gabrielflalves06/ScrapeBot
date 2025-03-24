@@ -1,4 +1,4 @@
-package Pages;
+package Scrapers;
 
 import java.time.Duration;
 import java.util.ArrayList;

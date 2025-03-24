@@ -1,4 +1,4 @@
-package Pages;
+package Scrapers;
 
 import java.util.ArrayList;
 import java.util.List;

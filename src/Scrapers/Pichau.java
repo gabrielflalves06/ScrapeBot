@@ -1,4 +1,4 @@
-package Pages;
+package Scrapers;
 
 import java.time.Duration;
 import java.util.ArrayList;
@@ -38,8 +38,12 @@ public class Pichau {
 
                 int tamanhoMinimo = Math.min(Math.min(nome.size(), preco.size()),urlProdutos.size());
 
-                for (int i = 0; i < tamanhoMinimo; i++) {
-                    Placas.add(new PlacasDeVideo(nome.get(i).getText(), preco.get(i).getText(), urlProdutos.get(i)));
+                if(tamanhoMinimo > 0){
+                    for (int i = 0; i < tamanhoMinimo; i++) {
+                        Placas.add(new PlacasDeVideo(nome.get(i).getText(), preco.get(i).getText(), urlProdutos.get(i)));
+                    }
+                }else{
+                    break;
                 }
 
                 List<WebElement> proximos = wait.until(ExpectedConditions

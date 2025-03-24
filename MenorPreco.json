@@ -1,0 +1,1241 @@
+[ {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6600 ASRock",
+  "preco" : "R$ 1.499,99",
+  "link" : "https://www.kabum.com.br/produto/235984/placa-de-video-rx-6600-cld-8g-asrock-amd-radeon-8gb-gddr6-90-ga2rzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060",
+  "preco" : "R$ 2.349,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/29047/placa-de-video-galax-nvidia-geforce-rtx-4060-1-click-oc-2x-v2-8gb-gddr6-dlss-ray-tracing-46nsl8md9nxv"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 Gigabyte",
+  "preco" : "R$ 1.889,00",
+  "link" : "https://www.kabum.com.br/produto/475647/placa-de-video-rx-7600-gaming-oc-8g-amd-radeon-gigabyte-8gb-gddr6-128bits-rgb-gv-r76gaming-oc-8gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 MSI",
+  "preco" : "R$ 1.399,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/28334/placa-de-video-msi-nvidia-geforce-rtx-3050-ventus-2x-oc-6gb-gddr6-dlss-ray-tracing-912-v812-016"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 4060",
+  "preco" : "R$ 2.169,00",
+  "link" : "https://www.kabum.com.br/produto/573742/placa-de-video-galax-geforce-rtx-4060-8gb-1-click-oc-v2-gddr6-128-bits-46nsl8md9nxv"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7800XT XFX",
+  "preco" : "R$ 4.699,99",
+  "link" : "https://www.kabum.com.br/produto/576423/placa-de-video-rx-7800xt-gaming-16g-xfx-speedster-qick319-amd-radeon-16gb-ddr6-hdmi-3xdp-3-fan-rx-78tqickf9"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 ASUS",
+  "preco" : "R$ 2.499,90",
+  "link" : "https://www.kabum.com.br/produto/522531/placa-de-video-rtx-4060-asus-dual-8g-evo-oc-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Palit",
+  "preco" : "R$ 2.199,99",
+  "link" : "https://www.kabum.com.br/produto/581685/placa-de-video-rtx-4060-infinity-2-palit-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-g-sync-ne64060019p1-1070l"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6750XT XFX",
+  "preco" : "R$ 2.429,99",
+  "link" : "https://www.kabum.com.br/produto/528811/placa-de-video-rx-6750xt-gaming-xfx-graphics-card-amd-radeon-12gb-gddr6-ray-tracing-fidelity-fx-rx-675tmbaf9"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 XFX",
+  "preco" : "R$ 1.899,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25101/placa-de-video-xfx-amd-radeon-rx-7600-speedster-qick-308-8gb-gddr6-fsr-ray-tracing-rx-76pqickby"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6650XT XFX",
+  "preco" : "R$ 1.749,99",
+  "link" : "https://www.kabum.com.br/produto/576421/placa-de-video-rx-6650xt-xfx-speedster-swft210-amd-radeon-8gb-gddr6-hdmi-3xdp-2-fan-rx-665x8dfdy"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Asus",
+  "preco" : "R$ 3.199,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25071/placa-de-video-asus-tuf-gaming-nvidia-geforce-rtx-4060-ti-oc-8gb-gddr6-dlss-ray-tracing-tuf-rtx4060ti-o8g-gaming"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1650 MSI",
+  "preco" : "R$ 999,99",
+  "link" : "https://www.kabum.com.br/produto/538895/placa-de-video-gtx-1650-d6-ventus-xs-ocv3-msi-nvidia-geforce-4gb-gddr6-g-sync-912-v812-003"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Gigabyte",
+  "preco" : "R$ 2.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25236/placa-de-video-gigabyte-nvidia-geforce-rtx-4060-eagle-oc-8gb-gddr6-dlss-ray-tracing-gv-n4060eagle-oc-8gd"
+}, {
+  "nome" : "Placa de Vídeo AMD  RX 550",
+  "preco" : "R$ 519,90",
+  "link" : "https://www.kabum.com.br/produto/525880/placa-de-video-rx-550-amd-pcyes-dual-fan-projeto-edge-4gb-gddr5-128-bits-pvex5504gbdf"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3060 MSI",
+  "preco" : "R$ 2.099,99",
+  "link" : "https://www.kabum.com.br/produto/384627/placa-de-video-rtx-3060-ventus-2x-msi-nvidia-geforce-12gb-gddr6-dlss-ray-tracing-rtx-3060-ventus-2x-12g-oc"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce RTX 3060 Zotac",
+  "preco" : "R$ 2.115,68",
+  "link" : "https://www.kabum.com.br/produto/544058/placa-de-video-rtx-3060-zotac-nvidia-geforce-12gb-gddr6-192-bits-a30600p-10m"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7700XT XFX",
+  "preco" : "R$ 2.999,99",
+  "link" : "https://www.kabum.com.br/produto/576422/placa-de-video-rx-7700xt-gaming-12g-xfx-speedster-qick-amd-radeon-12gb-gddr6-hdmi-3xdp-3-fan-rx-77tqickb9"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce",
+  "preco" : "R$ 99,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/23708/placa-de-video-duex-nvidia-geforce-dx-g210512-512mb-ddr3-64bit"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 Gigabyte",
+  "preco" : "R$ 1.229,99",
+  "link" : "https://www.kabum.com.br/produto/681586/placa-de-video-gigabyte-rtx-3050-windforce-oc-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-gv-n3050wf2ocv2-6gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1650",
+  "preco" : "R$ 1.264,00",
+  "link" : "https://www.kabum.com.br/produto/160869/placa-de-video-gtx-1650-galax-nvidia-geforce-4gb-gddr6-ex-plus-1-click-oc-128-bits-65sql8ds93e1"
+}, {
+  "nome" : "Placa de Vídeo   RTX 4060 Gainward",
+  "preco" : "R$ 2.524,66",
+  "link" : "https://www.kabum.com.br/produto/611830/placa-de-video-rtx-4060-8gb-python-ii-gddrd6-128b-gainward-ne64060019p1-1070v"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3060",
+  "preco" : "R$ 2.084,90",
+  "link" : "https://www.kabum.com.br/produto/150657/placa-de-video-rtx-3060-1-click-oc-galax-nvidia-geforce-12gb-gddr6-lhr-dlss-ray-tracing-36nol7md1voc"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 3050",
+  "preco" : "R$ 1.249,99",
+  "link" : "https://www.kabum.com.br/produto/703109/placa-de-video-galax-geforce-rtx-3050-ex-v2-6gb-gddr6-96-bits-35nrldhp9oid"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA Geforce RTX 3060 Inno3D",
+  "preco" : "R$ 1.999,99",
+  "link" : "https://www.kabum.com.br/produto/628577/placa-de-video-rtx-3060-inno3d-twin-x2-oc-nvidia-geforce-12gb-gddr6-g-sync-dlss-ray-tracing-n30602-12d6x-11902120h"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 Palit",
+  "preco" : "R$ 6.299,99",
+  "link" : "https://www.kabum.com.br/produto/697762/placa-de-video-palit-rtx-5070-gamingpro-oc-nvidia-geforce-12gb-gddr7-argb-sync-evo-g-sync-ray-tracing-dlss-4-ne75070t19k9-gb2050a"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 Inno3D",
+  "preco" : "R$ 1.299,90",
+  "link" : "https://www.kabum.com.br/produto/525561/placa-de-video-rtx-3050-twin-x2-inno3d-nvidia-geforce-6gb-n30502-06d6-1711va60"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce  PNY",
+  "preco" : "R$ 299,99",
+  "link" : "https://www.kabum.com.br/produto/113468/placa-de-video-pny-nvidia-geforce-gt-1030-2gb-gddr4-gmg103we3g2cx1ktp"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA Geforce RTX 5070 MSI",
+  "preco" : "R$ 8.399,99",
+  "link" : "https://www.kabum.com.br/produto/714419/placa-de-video-msi-geforce-rtx-5070-ti-16g-ventus-3x-oc-nvidia-16gb-gddr7-ate-2497mhz-g507t-16v3c"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5080 MSI",
+  "preco" : "R$ 9.999,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/35003/placa-de-video-msi-nvidia-geforce-rtx-5080-shadow-3x-oc-16gb-gddr7-dlss-ray-tracing-g5080-16s3c"
+}, {
+  "nome" : "Placa de Vídeo   RX 6500",
+  "preco" : "R$ 999,99",
+  "link" : "https://www.kabum.com.br/produto/688564/placa-de-video-rx-6500-xt-v2-oc-edition-4gb-gddr6-axial-tech-fans-2-slot-design-dual-rx6500xt-o4g-v2"
+}, {
+  "nome" : "Placa de Vídeo",
+  "preco" : "R$ 21,90",
+  "link" : "https://www.kabum.com.br/produto/233335/adaptador-para-duas-fontes-e-mineracao-psuad-2psu-1pc-tx-n02-b-4pinos-molex"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 4060 Colorful",
+  "preco" : "R$ 2.199,99",
+  "link" : "https://www.kabum.com.br/produto/636136/placa-de-video-colorful-geforce-rtx-4060-nb-duo-8gb-v"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon Rx580",
+  "preco" : "R$ 820,90",
+  "link" : "https://www.kabum.com.br/produto/678225/placa-de-video-gamer-hwj-amd-radeon-rx580-hdmi-8gb-gddr5-256bits"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon",
+  "preco" : "R$ 175,49",
+  "link" : "https://www.kabum.com.br/produto/295652/placa-de-video-afox-amd-radeon-r5-220-2gb-sddr3-afr5220-2048d3l5-v2"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050",
+  "preco" : "R$ 1.429,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34747/placa-de-video-pcyes-nvidia-geforce-rtx-3050-projeto-edge-6gb-gddr6-dlss-ray-tracing-pvrtx30506blpe"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3060 Gainward",
+  "preco" : "R$ 2.059,90",
+  "link" : "https://www.kabum.com.br/produto/185626/placa-de-video-rtx-3060-gainward-nvidia-geforce-ghost-190au-12gb-gddr6-192-bits-dual-fan-ne63060019k9"
+}, {
+  "nome" : "Placa de Vídeo",
+  "preco" : "R$ 18,52",
+  "link" : "https://www.kabum.com.br/produto/505855/suporte-para-placa-de-video-ntc-r10-preto-r10blk"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 ASUS",
+  "preco" : "R$ 2.999,99",
+  "link" : "https://www.kabum.com.br/produto/546893/placa-de-video-rtx-4060-ti-o8g-evo-oc-asus-nvidia-geforce-8gb-gddr6-dlss3-ray-tracing-g-sync-90yv0j49-m0na00"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 750",
+  "preco" : "R$ 579,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/28928/placa-de-video-pcyes-nvidia-geforce-gtx-750-ti-4gb-gddr5-128bits-dual-fan-pa750tir5dffs"
+}, {
+  "nome" : "Placa de Vídeo AMD RADEON  Sapphire",
+  "preco" : "R$ 3.899,99",
+  "link" : "https://www.kabum.com.br/produto/486532/placa-de-video-x-7800-xt-gaming-pulse-sapphire-amd-radeon-16gb-gddr6-dual-hdmi-11330-02-20g"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7800 ASRock",
+  "preco" : "R$ 4.599,99",
+  "link" : "https://www.kabum.com.br/produto/482459/placa-de-video-rx-7800-xt-phantom-gaming-16g-oc-asrock-amd-radeon-16gb-argb-ray-tracing-90-ga4mzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 4060 Zotac",
+  "preco" : "R$ 2.687,75",
+  "link" : "https://www.kabum.com.br/produto/718921/placa-de-video-zotac-geforce-rtx-4060-twin-edge-8gb-gddr6-128bit-zt-d40600e-10m"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 ASRock",
+  "preco" : "R$ 2.199,00",
+  "link" : "https://www.kabum.com.br/produto/459143/placa-de-video-rx-7600-steel-legend-asrock-amd-radeon-8gb-gddr6-argb-90-ga4dzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo   RX 580",
+  "preco" : "R$ 1.318,90",
+  "link" : "https://www.kabum.com.br/produto/670089/placa-de-video-rx-580-pcwinmax-16gb-ram-gddr5-branca-256bits"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA Geforce RTX 4060 Msi",
+  "preco" : "R$ 2.901,05",
+  "link" : "https://www.kabum.com.br/produto/499940/placa-de-video-rtx-4060-ventus-2x-white-oc-msi-nvidia-geforce-8gb-gddr6-dlss-ray-tracing-912-v516-030"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 9070 Sapphire",
+  "preco" : "R$ 5.799,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34852/placa-de-video-sapphire-pulse-amd-radeon-rx-9070-gaming-16gb-gddr6-fsr-ray-tracing-11349-03-20g"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6600 ASUS",
+  "preco" : "R$ 1.949,99",
+  "link" : "https://www.kabum.com.br/produto/583156/placa-de-video-rx-6600-8g-v3-dual-asus-amd-radeon-8gb-gddr6-90yv0gp3-m0na00"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7900XTX XFX",
+  "preco" : "R$ 7.999,99",
+  "link" : "https://www.kabum.com.br/produto/576425/placa-de-video-rx-7900xtx-black-gaming-24g-xfx-speedster-merc310-amd-radeon-24gb-ddr6-3-fan-rx-79xmercb9"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 ASUS",
+  "preco" : "R$ 1.299,90",
+  "link" : "https://www.kabum.com.br/produto/520492/placa-de-video-rtx-3050-asus-6g-dual-oc-nvidia-geforce-6gb-gddr6-dlss-ray-tracing-g-sync-90yv0k60-m0na00"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 3050 Colorful",
+  "preco" : "R$ 1.399,99",
+  "link" : "https://www.kabum.com.br/produto/636132/placa-de-video-colorful-geforce-rtx-3050-nb-duo-6gb-v"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7700 ASRock",
+  "preco" : "R$ 3.799,99",
+  "link" : "https://www.kabum.com.br/produto/482462/placa-de-video-rx-7700-xt-phantom-gaming-12g-oc-asrock-amd-radeon-12gb-gddr6-ray-tracing-90-ga4lzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo AMD  RX 7900 Sapphire",
+  "preco" : "R$ 5.799,99",
+  "link" : "https://www.kabum.com.br/produto/417237/placa-de-video-rx-7900-xt-sapphire-amd-20-gb-gddr6-11323-02-20g"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7900 XFX",
+  "preco" : "R$ 5.299,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/29981/placa-de-video-xfx-amd-radeon-rx-7900-gre-16gb-gddr6-fsr-ray-tracing-rx-79gmercb9"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 580",
+  "preco" : "R$ 1.159,00",
+  "link" : "https://www.kabum.com.br/produto/619406/placa-de-video-pcwinmax-rx-580-gamer-amd-radeon-16gb-gddr5-256bits-led-rgb-branca"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon",
+  "preco" : "R$ 336,00",
+  "link" : "https://www.kabum.com.br/produto/117316/placa-de-video-pcyes-amd-radeon-5450-1gb-ddr3-64-bits-pj54506401d3lp"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX3050",
+  "preco" : "R$ 1.299,00",
+  "link" : "https://www.kabum.com.br/produto/641724/placa-de-video-rtx3050-nvidia-gddr6-6gb-96-bits-pcyes-pvrtx30506gb"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 MSI",
+  "preco" : "R$ 7.999,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34716/placa-de-video-msi-nvidia-geforce-rtx-5070-ti-ventus-3x-oc-16gb-gddr7-dlss-ray-tracing-g507t-16v3c"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7700 Gigabyte",
+  "preco" : "R$ 2.999,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/26198/placa-de-video-gigabyte-amd-radeon-rx-7700-xt-gaming-oc-12gb-gddr6-fsr-ray-tracing-gv-r77xtgaming-oc-12gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA Geforce RTX 4060 Inno3D",
+  "preco" : "R$ 2.299,99",
+  "link" : "https://www.kabum.com.br/produto/628576/placa-de-video-rtx-4060-inno3d-twin-x2-nvidia-geforce-8gb-gddr6-g-sync-dlss-ray-tracing-n40602-08d6-173051n"
+}, {
+  "nome" : "Placa de Vídeo   RTX 3050 MSI",
+  "preco" : "R$ 1.625,48",
+  "link" : "https://www.kabum.com.br/produto/602323/placa-de-video-msi-rtx-3050-ventus-2x-oc-6gb-ram-gddr6-96-bits-912-v812-016"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce  Inno3D",
+  "preco" : "R$ 229,99",
+  "link" : "https://www.kabum.com.br/produto/474310/placa-de-video-inno3d-gt710-nvidia-geforce-2gb-sddr3-hdmi-dvi-e-vga-n710-1sdv-e3bx"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX 4060 MSI",
+  "preco" : "R$ 4.062,19",
+  "link" : "https://www.kabum.com.br/produto/475205/placa-de-video-rtx-4060-ti-ventus-2x-oc-msi-nvidia-8gb-ram-gddr6-912-v515-024"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce",
+  "preco" : "R$ 145,35",
+  "link" : "https://www.kabum.com.br/produto/701169/placa-de-video-nvidia-geforce-gt210-1g-1"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 560",
+  "preco" : "R$ 694,29",
+  "link" : "https://www.kabum.com.br/produto/400779/placa-de-video-pcwinmax-rx-560-radeon-4gb-gddr5-128bits-rx560-4gd5"
+}, {
+  "nome" : "Placa de Vídeo   RTX 5070 Msi",
+  "preco" : "R$ 9.090,89",
+  "link" : "https://www.kabum.com.br/produto/726011/placa-de-video-rtx-5070-ti-16gb-gddr7-256bits-ventus-3x-oc-msi-912-v531-092"
+}, {
+  "nome" : "Placa de Vídeo    Pny",
+  "preco" : "R$ 1.471,66",
+  "link" : "https://www.kabum.com.br/produto/400952/placa-de-video-quadro-4gb-ddr6-64bit-vcnt4004gb-pb-t400-pny"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce RTX 4070 Msi",
+  "preco" : "R$ 6.439,99",
+  "link" : "https://www.kabum.com.br/produto/696665/placa-de-video-nvidia-geforce-rtx-4070-12gb-msi-ventus-3x-e1-oc-192-bits-gddr6x-912-v512-027"
+}, {
+  "nome" : "Placa de Vídeo Nvidia",
+  "preco" : "R$ 287,53",
+  "link" : "https://www.kabum.com.br/produto/693439/placa-de-video-valianty-nvidia-gt-730-4gb-gddr3-128-bit-preto"
+}, {
+  "nome" : "Placa de Vídeo  Geforce Rtx 3060 Inno3d",
+  "preco" : "R$ 2.139,90",
+  "link" : "https://www.kabum.com.br/produto/505714/placa-de-video-inno3d-geforce-rtx-3060-12gb-twin-x2-gddr6-dlss-ray-tracing-3x-dp-1x-hdmi-n30602-12d6-119032ah"
+}, {
+  "nome" : "Placa de Vídeo  GeForce",
+  "preco" : "R$ 143,44",
+  "link" : "https://www.kabum.com.br/produto/635188/placa-de-video-vx-pro-duex-gt-210-geforce-1gb-ddr3-64-bits-low-profile-vga-hdmi-dvi-g210lp-1gd3"
+}, {
+  "nome" : "Placa de Vídeo Intel Arc Arc A380 AsRock",
+  "preco" : "R$ 1.092,99",
+  "link" : "https://www.kabum.com.br/produto/476796/placa-de-video-intel-arc-a380-low-profile-6g-asrock-6gb-gddr6-dr-mos-90-ga46zz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 ASUS",
+  "preco" : "R$ 3.849,99",
+  "link" : "https://www.kabum.com.br/produto/529102/placa-de-video-rx-7600-xt-asus-amd-radeon-tuf-16g-gaming-oc-16gb-gddr6-90yv0k20-m0na00"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX A2000 PNY",
+  "preco" : "R$ 6.168,49",
+  "link" : "https://www.kabum.com.br/produto/382291/placa-de-video-pny-quadro-a2000-rtx-a2000-nvidia-geforce-12gb-gddr6-192bits-vcnrtxa200012gb-pb"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce RTX 4060 Pny",
+  "preco" : "R$ 2.219,00",
+  "link" : "https://www.kabum.com.br/produto/512299/placa-de-video-pny-nvidia-geforce-rtx-4060-verto-dual-fan-8gb-gddr6-dlss-ray-tracing-vcg40608dfxpb1"
+}, {
+  "nome" : "Placa de Vídeo  Geforce",
+  "preco" : "R$ 181,59",
+  "link" : "https://www.kabum.com.br/produto/723658/placa-de-video-duex-geforce-gt-210-1gb-ddr3-64-bits-low-profile-hdmi-dvi-vga-g210lp-1gd3"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3060 Asus",
+  "preco" : "R$ 2.629,00",
+  "link" : "https://www.kabum.com.br/produto/214817/placa-de-video-asus-nvidia-geforce-rtx-3060-12gb-gddr6-lhr-192-bits-dual-rtx3060-o12g-v2"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 5080",
+  "preco" : "R$ 11.044,99",
+  "link" : "https://www.kabum.com.br/produto/727082/placa-de-video-galax-geforce-rtx-5080-1-click-oc-16gb-gddr7-256-bit-58nzn6mdbboc"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA   PNY",
+  "preco" : "R$ 3.499,99",
+  "link" : "https://www.kabum.com.br/produto/301518/placa-de-video-quadro-t1000-pny-nvidia-8gb-gddr6-pcie-3-0-vcnt10008gb-pb"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 550",
+  "preco" : "R$ 525,90",
+  "link" : "https://www.kabum.com.br/produto/308099/placa-de-video-afox-amd-radeon-rx-550-4gb-gddr5-128-bits-afrx550-4096d5h4-v6"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx580",
+  "preco" : "R$ 929,00",
+  "link" : "https://www.kabum.com.br/produto/635954/placa-de-video-vx-pro-amd-radeon-rx580-8gb-256bits-rx580-8gd5-vx-pro"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 4080",
+  "preco" : "R$ 11.901,95",
+  "link" : "https://www.kabum.com.br/produto/702908/placa-de-video-geforce-rtx-4080-super-amp-16gb-gddr6x-zt-s4082f-10p"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 550",
+  "preco" : "R$ 469,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/20487/placa-de-video-afox-radeon-rx-550-4gb-gddr5-afrx550-4096d5h4-v6"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx 560",
+  "preco" : "R$ 610,13",
+  "link" : "https://www.kabum.com.br/produto/648899/placa-de-video-amd-radeon-rx-560-4gb-128bits-gddr5-hdmi-gamer"
+}, {
+  "nome" : "Placa de Vídeo  GeForce GTX 750",
+  "preco" : "R$ 642,51",
+  "link" : "https://www.kabum.com.br/produto/590268/placa-de-video-pcyes-geforce-gtx-750-ti-4gb-gddr5-128bits-dual-fan-pa750tir5dffs"
+}, {
+  "nome" : "Placa de Vídeo Intel Arc Arc B570 ASRock",
+  "preco" : "R$ 1.899,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/33428/placa-de-video-asrock-intel-arc-b570-challenger-oc-10gb-gddr6-xess-ray-tracing-b570-cl-10go"
+}, {
+  "nome" : "Placa de Vídeo Intel Arc Arc A770 AsRock",
+  "preco" : "R$ 2.449,99",
+  "link" : "https://www.kabum.com.br/produto/476794/placa-de-video-intel-arc-a770-phantom-gaming-asrock-16gb-gddr6-rgb-polychrome-sync-90-ga4kzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1650 MSI",
+  "preco" : "R$ 1.099,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/31522/placa-de-video-msi-nvidia-geforce-gtx-1650-d6-ventus-xs-ocv3-4gb-gddr6-128bit-hdmidp"
+}, {
+  "nome" : "Placa de Vídeo   RTX 3050 Msi",
+  "preco" : "R$ 1.699,90",
+  "link" : "https://www.kabum.com.br/produto/565376/placa-de-video-msi-rtx-3050-6gb-96bits-gddr6-low-profile-oc-pci-e-6266-6266"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 4060TI Zotac",
+  "preco" : "R$ 3.666,99",
+  "link" : "https://www.kabum.com.br/produto/472082/placa-de-video-zotac-gaming-geforce-rtx-4060ti-8gb-gddr6-128-bit-twin-edge-zt-d40610e-10m"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX550 PowerColor",
+  "preco" : "R$ 529,90",
+  "link" : "https://www.kabum.com.br/produto/304368/placa-de-video-powercolor-amd-radeon-rx550-4gb-gddr5-128-bits-4gbd5-hle"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX 2060",
+  "preco" : "R$ 1.697,94",
+  "link" : "https://www.kabum.com.br/produto/623594/placa-de-video-gamer-nvidia-rtx-2060-6gb-192bits-gddr6-hdmi"
+}, {
+  "nome" : "Placa de Vídeo  Radeon",
+  "preco" : "R$ 159,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/22043/placa-de-video-afox-radeon-r5-230-1gb-ddr3-afr5230-1024d3l9-v2"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx 550ti",
+  "preco" : "R$ 384,38",
+  "link" : "https://www.kabum.com.br/produto/628153/placa-de-video-nvidia-geforce-4gb-gtx-550ti-gddr5-128-bit-g-gtx550ti-4g-revenger"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce RTX 5080 Zotac",
+  "preco" : "R$ 13.279,90",
+  "link" : "https://www.kabum.com.br/produto/715208/placa-de-video-zotac-nvidia-geforce-rtx-5080-solid-16gb-oc-gddr7-dlss-ray-tracing-zt-b50800j-10p"
+}, {
+  "nome" : "Placa de Vídeo Nvidia GeForce",
+  "preco" : "R$ 165,24",
+  "link" : "https://www.kabum.com.br/produto/587732/placa-de-video-gt610-duex-nvidia-geforce-1gb-gddr3-64-bits-low-profile-gt610lp-1gd3"
+}, {
+  "nome" : "Placa de Vídeo   RTX 5080 Msi",
+  "preco" : "R$ 15.122,60",
+  "link" : "https://www.kabum.com.br/produto/727508/placa-de-video-msi-rtx-5080-16gb-ventus-3x-oc-gddr7-256-bits-3x-dp-1x-hdmi-912-v531-262"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 5080 Gainward",
+  "preco" : "R$ 12.369,00",
+  "link" : "https://www.kabum.com.br/produto/726671/placa-de-video-16gb-gainward-geforce-rtx-5080-phoenix"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 3050 Inno3d",
+  "preco" : "R$ 1.805,15",
+  "link" : "https://www.kabum.com.br/produto/587838/placa-de-video-rtx-3050-geforce-inno3d-twin-x2-oc-8gb-gddr6-128-bits"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 Gigabyte",
+  "preco" : "R$ 6.299,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34884/placa-de-video-gigabyte-nvidia-geforce-rtx-5070-gaming-oc-12gb-gddr7-dlss-ray-tracing-gv-n5070gaming-oc-12gd"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce GTX 1660 Colorful",
+  "preco" : "R$ 1.499,00",
+  "link" : "https://www.kabum.com.br/produto/506705/placa-de-video-colorful-nvidia-geforce-gtx-1660-super-nb-duo-6g-v-6gb"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RX Geforce",
+  "preco" : "R$ 265,52",
+  "link" : "https://www.kabum.com.br/produto/420701/placa-de-video-brx-geforce-gt730-4gb-128-bits-ddr3"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1660",
+  "preco" : "R$ 2.680,90",
+  "link" : "https://www.kabum.com.br/produto/171588/placa-de-video-galax-gtx-1660-super-nvidia-geforce-6gb-gddr6-60srl7dsy91s"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 560",
+  "preco" : "R$ 636,99",
+  "link" : "https://www.kabum.com.br/produto/502712/placa-de-video-amd-radeon-rx-560-4gb-gddr5-128bits-pcwinmax-rx560-4gd5g"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx 750",
+  "preco" : "R$ 599,99",
+  "link" : "https://www.kabum.com.br/produto/692493/placa-de-video-vxpro-nvidia-geforce-gtx-750-ti-4gb-gddr5-128-bits-gtx750ti-4gd5"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX A4500 Pny",
+  "preco" : "R$ 14.089,41",
+  "link" : "https://www.kabum.com.br/produto/457912/placa-de-video-pny-nvidia-quadro-rtx-a4500-20gb-gddr6-vcnrtxa4500-pb"
+}, {
+  "nome" : "Placa de Vídeo  Geforce",
+  "preco" : "R$ 229,90",
+  "link" : "https://www.kabum.com.br/produto/708572/placa-de-video-geforce-gt-220-1gb-ddr3-128-bit-desempenho-e-qualidade"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon",
+  "preco" : "R$ 212,36",
+  "link" : "https://www.kabum.com.br/produto/270478/placa-de-video-afox-amd-radeon-r5-230-1gb-ddr3-hdmi-vga-dvi-afr5230-1024d3l9-v2"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce  PNY",
+  "preco" : "R$ 894,57",
+  "link" : "https://www.kabum.com.br/produto/253246/placa-de-video-pny-nvidia-geforce-quadro-t400-2gb-gddr6-64-bits-vcnt400-pb"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon rx Amd",
+  "preco" : "R$ 1.490,00",
+  "link" : "https://www.kabum.com.br/produto/695297/placa-de-video-brx-amd-radeon-rx-580-16gb-gddr5-256-bits-pvbrx-rx58016gb"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6600",
+  "preco" : "R$ 1.349,01",
+  "link" : "https://www.kabum.com.br/produto/309546/placa-de-video-power-color-fighter-amd-radeon-axrx-6600-8gb-gddr6-8gbd6-3dh"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce",
+  "preco" : "R$ 145,00",
+  "link" : "https://www.kabum.com.br/produto/576892/placa-de-video-nvidia-revenger-geforce-gt-705-vga-hdmi-1gb"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX A4000 PNY",
+  "preco" : "R$ 9.405,33",
+  "link" : "https://www.kabum.com.br/produto/381206/placa-de-video-pny-nvidia-geforce-quadro-rtx-a4000-16gb-256-bits"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx580",
+  "preco" : "R$ 999,99",
+  "link" : "https://www.kabum.com.br/produto/663040/placa-de-video-amd-radeon-rx580-gddr5-8gb-256-bits-white"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  Gtx 1660",
+  "preco" : "R$ 1.599,00",
+  "link" : "https://www.kabum.com.br/produto/726496/placa-de-video-gamer-nvidia-gtx-1660-ti-6gb-192bits-gddr6-hdmi"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 ASRock",
+  "preco" : "R$ 2.199,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25052/placa-de-video-asrock-amd-radeon-rx-7600-steel-legend-oc-8gb-gddr6-fsr-ray-tracing-90-ga4dzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx470",
+  "preco" : "R$ 605,00",
+  "link" : "https://www.kabum.com.br/produto/723872/placa-de-video-gamer-amd-radeon-rx470-4gb-gddr5-clock-6600mhz-256bit-pci-e-3-0x16-hdmi-dvi-e-dp-alto-desempenho"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1650 Asus",
+  "preco" : "R$ 2.149,90",
+  "link" : "https://www.kabum.com.br/produto/220016/placa-de-video-asus-nvidia-geforce-gtx-1650-tuf-4gb-gddr6-2-fans"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA  RTX 5000 PNY",
+  "preco" : "R$ 32.999,99",
+  "link" : "https://www.kabum.com.br/produto/495965/placa-de-video-rtx-5000-ada-pny-nvidia-quadro-32gb-gddr6-256bits-vcnrtx5000ada-pb"
+}, {
+  "nome" : "Placa de Vídeo Nvidia GeForce RTX 4060 Msi",
+  "preco" : "R$ 2.879,04",
+  "link" : "https://www.kabum.com.br/produto/476926/placa-de-video-msi-rtx-4060-ventus-2x-oc-black-nvidia-geforce-8gb-gddr6-912-v516-012"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx 1050",
+  "preco" : "R$ 1.135,81",
+  "link" : "https://www.kabum.com.br/produto/458704/placa-de-video-pcyes-nvidia-geforce-gtx-1050-ti-4-gb-gddr5-128bits-dual-fan-graffiti-series"
+}, {
+  "nome" : "Placa de Vídeo   RTX 3050 Zotac",
+  "preco" : "R$ 1.750,88",
+  "link" : "https://www.kabum.com.br/produto/583174/placa-de-video-zotac-rtx-3050-6gb-lp-gddr6-96bits-zt-a30510l-10l"
+}, {
+  "nome" : "Placa de Vídeo Nvidia",
+  "preco" : "R$ 129,90",
+  "link" : "https://www.kabum.com.br/produto/461703/placa-de-video-nvidia-gpu-gt-210-512mb-ddr3-64bits-pcie"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 4080 Zotac",
+  "preco" : "R$ 11.533,24",
+  "link" : "https://www.kabum.com.br/produto/586845/placa-de-video-zotac-geforce-rtx-4080-amp-extreme-airo-16gb-gddr6x-256-bit-zt-d40810b-10p"
+}, {
+  "nome" : "Placa de Vídeo AMD",
+  "preco" : "R$ 477,00",
+  "link" : "https://www.kabum.com.br/produto/376443/placa-de-video-dex-amd-r7-240-2gb-ddr5-128-bits-vga-dvi-hdmi-pv-04a"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX1650 Asus",
+  "preco" : "R$ 1.464,74",
+  "link" : "https://www.kabum.com.br/produto/276265/placa-de-video-asus-nvidia-geforce-gtx1650-4gb-ddr6-displayport-dvi-hdmi-90yv0ez0-m0na00"
+}, {
+  "nome" : "Placa de Vídeo  Arc Arc A310 Asrock",
+  "preco" : "R$ 973,57",
+  "link" : "https://www.kabum.com.br/produto/573354/placa-de-video-asrock-arc-a310-low-profile-4gb-gddr6-64-bit-preto"
+}, {
+  "nome" : "Placa de Vídeo",
+  "preco" : "R$ 18,52",
+  "link" : "https://www.kabum.com.br/produto/505870/suporte-para-placa-de-video-ntc-r10-branco-r10wht"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 4060",
+  "preco" : "R$ 3.280,99",
+  "link" : "https://www.kabum.com.br/produto/729534/placa-de-video-galax-geforce-rtx-4060-ti-ex-white-v2-8gb-gddr6-128-dlss-3-46isl8md8bew"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1050 Gainward",
+  "preco" : "R$ 1.402,18",
+  "link" : "https://www.kabum.com.br/produto/117433/placa-de-video-gainward-nvidia-geforce-gtx-1050-ti-4gb-gddr5-128-bits-ne5105t018g1-1070f"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX A1000 Pny",
+  "preco" : "R$ 3.699,90",
+  "link" : "https://www.kabum.com.br/produto/594208/placa-de-video-pny-nvidia-quadro-rtx-a1000-8gb-gddr6-128bits-vcnrtxa1000atx-pb"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6500 Gigabyte",
+  "preco" : "R$ 1.196,99",
+  "link" : "https://www.kabum.com.br/produto/355990/placa-de-video-gigabyte-amd-radeon-rx-6500-xt-eagle-4gb-gddr6-fsr-ray-tracing-gv-r65xteagle-4gd"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 4060 Inno3d",
+  "preco" : "R$ 3.200,40",
+  "link" : "https://www.kabum.com.br/produto/478158/placa-de-video-gpu-inno3d-geforce-rtx-4060-twin-x2-oc-8gb-gddr6-128-bit-n40602-08d6x-173051n"
+}, {
+  "nome" : "Placa de Vídeo Nvidia   PNY",
+  "preco" : "R$ 96.999,99",
+  "link" : "https://www.kabum.com.br/produto/506094/placa-de-video-quadro-a800-pny-nvidia-40gb-hbm2-5120bits-vcna800-pb"
+}, {
+  "nome" : "Placa de Vídeo AMD  RX6700XT Asus",
+  "preco" : "R$ 11.039,20",
+  "link" : "https://www.kabum.com.br/produto/172547/placa-de-video-asus-amd-12gb-gddr6-tuf-rx6700xt-o12g-gaming"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX550TI",
+  "preco" : "R$ 460,84",
+  "link" : "https://www.kabum.com.br/produto/221103/placa-de-video-dex-nvidia-geforce-gtx550ti-1gb-ddr5-128-bits-vga-dvi-hdmi-pv-05"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX750",
+  "preco" : "R$ 898,20",
+  "link" : "https://www.kabum.com.br/produto/300165/placa-de-video-afox-nvidia-geforce-gtx750-2gb-gddr5-128-bits-hdmi-dvi-vga-af750-2048d5l4"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 550",
+  "preco" : "R$ 855,55",
+  "link" : "https://www.kabum.com.br/produto/302813/placa-de-video-pcyes-amd-radeon-rx-550-4gb-gddr5-grafiti-series-pajrx550dr5df"
+}, {
+  "nome" : "Placa de Vídeo   RTX3050 asus",
+  "preco" : "R$ 1.772,39",
+  "link" : "https://www.kabum.com.br/produto/573744/gpu-nv-rtx3050-6gb-gddr6-pegasus-96bits-gainward-ne63050018je-1070e"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3080 Colorful",
+  "preco" : "R$ 7.999,00",
+  "link" : "https://www.kabum.com.br/produto/355242/placa-de-video-colorful-nvidia-geforce-rtx-3080-ti-igame-12gb-gddr6x-lhr-advanced-oc-v-384-bits"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX 5000 Pny",
+  "preco" : "R$ 46.422,62",
+  "link" : "https://www.kabum.com.br/produto/594207/placa-de-video-pny-nvidia-rtx-5000-ada-generation-32gb-gddr6-256bits-vcnrtx5000ada-pb"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce RTX 3050",
+  "preco" : "R$ 1.745,17",
+  "link" : "https://www.kabum.com.br/produto/505647/placa-de-video-nvidia-pcyes-geforce-rtx-3050-8gb-128-bits-pvrtx30508gb"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce RTX 4060 Asus",
+  "preco" : "R$ 2.771,99",
+  "link" : "https://www.kabum.com.br/produto/564006/placa-de-video-rtx-4060-asus-dual-o8g-evo-nvidia-geforce-8gb-gddr6-128-bits"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx 570",
+  "preco" : "R$ 1.119,90",
+  "link" : "https://www.kabum.com.br/produto/727982/placa-de-video-amd-radeon-geforce-rx-570-gddr5-4gb-pcyes"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA Geforce RTX 4060 Zotac",
+  "preco" : "R$ 2.778,72",
+  "link" : "https://www.kabum.com.br/produto/487840/placa-de-video-zotac-nvidia-geforce-rtx-4060-twin-edge-oc-8gb-gddr6-128-bits-hdmi-e-displayport-zt-d40600h-10m"
+}, {
+  "nome" : "Placa de Vídeo   RX6600",
+  "preco" : "R$ 2.116,52",
+  "link" : "https://www.kabum.com.br/produto/677928/placa-de-video-rx6600-8gb-gddr6-128bit-gaming-clock-2495mhz-banda-224gb-s"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 Palit",
+  "preco" : "R$ 3.843,55",
+  "link" : "https://www.kabum.com.br/produto/347012/placa-de-video-palit-nvidia-geforce-rtx-3050-dual-8gb-gddr6-lhr-dlss-ray-tracing-ne63050019p1"
+}, {
+  "nome" : "Placa de Vídeo   RTX 5070 Msi",
+  "preco" : "R$ 10.792,09",
+  "link" : "https://www.kabum.com.br/produto/727980/placa-de-video-rtx-5070-ti-16gb-inspire-3x-oc-plus-msi-912-v531-099"
+}, {
+  "nome" : "Placa de Vídeo  Geforce Gtx960",
+  "preco" : "R$ 1.125,90",
+  "link" : "https://www.kabum.com.br/produto/593202/placa-de-video-keepdata-geforce-gtx960-4gb-ddr5-pci-express"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3060 Zotac",
+  "preco" : "R$ 2.548,94",
+  "link" : "https://www.kabum.com.br/produto/217261/placa-de-video-zotac-nvidia-geforce-rtx-3060-twin-edge-12gb-gddr6-zt-a30600e-10m"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx 550",
+  "preco" : "R$ 559,99",
+  "link" : "https://www.kabum.com.br/produto/688870/amd-radeon-rx-550-4gb-gddr5-128bits-vxpro-dual-fan-vxr554f000069"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX750TI",
+  "preco" : "R$ 614,14",
+  "link" : "https://www.kabum.com.br/produto/384161/placa-de-video-afox-nvidia-geforce-gtx750ti-2gb-gddr5-128-bits-hdmi-dvi-vga-af750ti-2048d5h5-v2"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3070",
+  "preco" : "R$ 4.229,10",
+  "link" : "https://www.kabum.com.br/produto/256200/placa-de-video-galax-nvidia-geforce-rtx-3070-8gb-ram-lhr-1-click-oc-37nsl6md2kch"
+}, {
+  "nome" : "Placa de Vídeo   Rtx3050 Inno3d",
+  "preco" : "R$ 1.720,58",
+  "link" : "https://www.kabum.com.br/produto/573328/placa-de-video-rtx3050-8gb-twin-x2-v2-gddr6-inno3d-n30502-08d6-1711va41"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX 4060 Zotac",
+  "preco" : "R$ 2.873,72",
+  "link" : "https://www.kabum.com.br/produto/479025/placa-de-video-zotac-nvidia-rtx-4060-spider-man-8gb-128bits-oc"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 750TI",
+  "preco" : "R$ 553,70",
+  "link" : "https://www.kabum.com.br/produto/314885/placa-de-video-duex-nvidia-geforce-gtx-750ti-2gb-ddr5-gtx750ti-2gd5"
+}, {
+  "nome" : "Placa de Vídeo    Inno3d",
+  "preco" : "R$ 251,25",
+  "link" : "https://www.kabum.com.br/produto/587836/placa-de-video-gt710-lp-inno3d-1gb-sddr3-64-bit"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx750",
+  "preco" : "R$ 478,67",
+  "link" : "https://www.kabum.com.br/produto/645494/placa-de-video-gamer-nvidia-geforce-gtx750-gddr5-4gb-128bits"
+}, {
+  "nome" : "Placa de Vídeo   Rx 550",
+  "preco" : "R$ 566,67",
+  "link" : "https://www.kabum.com.br/produto/538966/placa-de-video-gpu-rx-550-4gb-gddr5-128-bits-projeto-edge-pvex5504gbdf"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 750TI",
+  "preco" : "R$ 773,25",
+  "link" : "https://www.kabum.com.br/produto/404346/placa-de-video-knup-nvidia-geforce-revenger-gtx-750ti-gamer-2gb-ddr5-dvi-vga-hdmi-gtx750ti-2g"
+}, {
+  "nome" : "Placa de Vídeo AMD  RX550",
+  "preco" : "R$ 854,05",
+  "link" : "https://www.kabum.com.br/produto/404202/placa-de-video-pcyes-amd-rx550-4gb-ram-open-gl-4-6-dp-hdmi-dvi-windows-e-linux"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3080 Gainward",
+  "preco" : "R$ 10.122,64",
+  "link" : "https://www.kabum.com.br/produto/190083/placa-de-video-gainward-nvidia-geforce-rtx-3080-ti-phoenix-g6x-12gb-384-bits"
+}, {
+  "nome" : "Placa de Vídeo  Radeon Rx 550",
+  "preco" : "R$ 525,02",
+  "link" : "https://www.kabum.com.br/produto/693441/placa-de-video-valianty-radeon-rx-550-4gb-gddr5-128-bit-preto"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce  Zotac",
+  "preco" : "R$ 428,35",
+  "link" : "https://www.kabum.com.br/produto/178336/placa-de-video-zotac-nvidia-geforce-gt730-4gb-ddr3-64-bits-low-profile-hdmi-dvi-vga-zt-71115-20l"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 2060 Gigabyte",
+  "preco" : "R$ 4.419,79",
+  "link" : "https://www.kabum.com.br/produto/302344/placa-de-video-gigabyte-nvidia-geforce-rtx-2060-d6-6gb-gddr6-192-bits"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce  Colorful",
+  "preco" : "R$ 653,34",
+  "link" : "https://www.kabum.com.br/produto/366477/placa-de-video-colorful-nvidia-geforce-g-c1030-2gb-ddr4-v5-vplac-hdmi-vga"
+}, {
+  "nome" : "Placa de Vídeo Rx580",
+  "preco" : "R$ 802,81",
+  "link" : "https://www.kabum.com.br/produto/730836/placa-de-video-gamer-8gb-rx580-gddr5-pci-e-3-0x16-256bits-clock-7000mhz-hdmi-displayport-alto-desempenho"
+}, {
+  "nome" : "Placa de Vídeo GTX750ti",
+  "preco" : "R$ 690,00",
+  "link" : "https://www.kabum.com.br/produto/526461/placa-de-video-keepdata-gtx750ti-4gb-ddr5-vga-128bit-kdgtx750ti-b"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon",
+  "preco" : "R$ 202,49",
+  "link" : "https://www.kabum.com.br/produto/161693/placa-de-video-afox-amd-radeon-r5-230-1gb-ddr3-low-profile-afr5230-1024d3l4"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 7600 Asrock",
+  "preco" : "R$ 3.719,49",
+  "link" : "https://www.kabum.com.br/produto/581061/placa-de-video-asrock-radeon-rx-7600-xt-steel-legend-16gb-oc-gddr6-128-bits-3x-dp-1x-hdmi-90-ga4zzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 5070",
+  "preco" : "R$ 8.474,99",
+  "link" : "https://www.kabum.com.br/produto/727152/placa-de-video-galax-geforce-rtx-5070-ti-16gb-gddr7-256-bit-1-click-oc"
+}, {
+  "nome" : "Placa de Vídeo Nvidia",
+  "preco" : "R$ 168,06",
+  "link" : "https://www.kabum.com.br/produto/508159/placa-de-video-gt610-ddr3-2gb-vga-hdmi-nvidia-pcie-x16-2-0"
+}, {
+  "nome" : "Placa de Vídeo   Gtx1650 Zotac",
+  "preco" : "R$ 1.350,00",
+  "link" : "https://www.kabum.com.br/produto/583280/placa-de-video-zotac-gtx1650-4gb-gddr6-amp-t16520j-10l"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTXA2000 PNY",
+  "preco" : "R$ 4.890,19",
+  "link" : "https://www.kabum.com.br/produto/329158/placa-de-video-pny-nvidia-geforce-rtxa2000-vcnrtxa2000-pb-i"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 Sapphire",
+  "preco" : "R$ 2.499,90",
+  "link" : "https://www.kabum.com.br/produto/480435/placa-de-video-sapphire-multi-amd-radeon-rx-7600-8gb-gddr6-preto"
+}, {
+  "nome" : "Placa de Vídeo   RTX 5070 Gainward",
+  "preco" : "R$ 7.276,15",
+  "link" : "https://www.kabum.com.br/produto/726589/placa-de-video-gainward-rtx-5070-phoenix-gs-12gb-gddr7-g-sync-ray-tracing-dlss-4-ne7507ts19t2-gb203"
+}, {
+  "nome" : "Placa de Vídeo   rx Rx580",
+  "preco" : "R$ 1.561,72",
+  "link" : "https://www.kabum.com.br/produto/670406/placa-de-video-brx-rx580-16gb-2048sp-256bit"
+}, {
+  "nome" : "Placa de Vídeo   RTX 4000 Pny",
+  "preco" : "R$ 10.133,99",
+  "link" : "https://www.kabum.com.br/produto/502446/placa-de-video-rtx-4000-pny-quadro-20gb-gddr6-160bits-vcnrtx4000adalp-pb"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX550",
+  "preco" : "R$ 559,00",
+  "link" : "https://www.kabum.com.br/produto/392415/placa-de-video-duex-amd-radeon-rx550-4gb-gddr5-128-bits-hdmi-dvi-displayport-dx-rx550-4gb"
+}, {
+  "nome" : "Placa de Vídeo   Rx 560",
+  "preco" : "R$ 552,00",
+  "link" : "https://www.kabum.com.br/produto/631680/placa-de-video-bluecase-4gb-rx-560-ddr5-128bits-dp-hdmi-dvi"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 3060 Zotac",
+  "preco" : "R$ 2.693,22",
+  "link" : "https://www.kabum.com.br/produto/587931/placa-de-video-geforce-rtx-3060-twin-edge-zotac-gaming-geforce-12gb-gddr6-15-gbps-ray-tracing-zt-a30600-10m"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx1660s",
+  "preco" : "R$ 1.587,11",
+  "link" : "https://www.kabum.com.br/produto/714458/placa-de-video-gamer-nvidia-geforce-gtx1660s-gddr6-6gb-clock-1-530-mhz-pci-express-3-0-x16-compativel-opengl-hdmi-dvi-d-dp-upgrade-pc"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  GTX 1660",
+  "preco" : "R$ 2.080,53",
+  "link" : "https://www.kabum.com.br/produto/460004/placa-de-video-brx-nvidia-gtx-1660-super-6gb-gddr-6-192bit-vga"
+}, {
+  "nome" : "Placa de Vídeo  Geforce",
+  "preco" : "R$ 549,00",
+  "link" : "https://www.kabum.com.br/produto/591339/placa-de-video-tgt-geforce-gt730-4gb-gddr3-128-bit-tgt-gt730-4gb"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 2060",
+  "preco" : "R$ 1.840,38",
+  "link" : "https://www.kabum.com.br/produto/332863/placa-de-video-pcyes-rtx-2060-nvidia-geforce-gef-6gb-gddr6-192-bits-dual-fan-full-size"
+}, {
+  "nome" : "Placa de Vídeo   Rtx 3080",
+  "preco" : "R$ 699,00",
+  "link" : "https://www.kabum.com.br/produto/332088/bloco-vga-barrow-para-rtx-3080-3080-ti-e-3090-aorus-bs-gix3090-pa2"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  RTX 2000 Pny",
+  "preco" : "R$ 6.299,90",
+  "link" : "https://www.kabum.com.br/produto/573274/placa-de-video-pny-nvidia-quadro-rtx-2000-ada-generation-16gb-gddr6-128bits-vcnrtx2000ada-pb"
+}, {
+  "nome" : "Placa de Vídeo AMD  RX AMD",
+  "preco" : "R$ 269,90",
+  "link" : "https://www.kabum.com.br/produto/460006/placa-de-video-brx-amd-r5-240-2gb-gddr-3-128bit"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 4060 Zotac",
+  "preco" : "R$ 2.949,00",
+  "link" : "https://www.kabum.com.br/produto/591796/placa-de-video-zotac-gaming-geforce-rtx-4060-twin-edge-oc-8gb-gddr6-128-bit-branco"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1050 MSI",
+  "preco" : "R$ 1.287,93",
+  "link" : "https://www.kabum.com.br/produto/117310/placa-de-video-msi-nvidia-geforce-gtx-1050-ti-4gt-oc-4gb-ate-3-monitores-912-v809-2272"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1630",
+  "preco" : "R$ 1.283,01",
+  "link" : "https://www.kabum.com.br/produto/397100/placa-de-video-galax-nvidia-geforce-gtx-1630-4gb-ddr6-64-bits"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1650",
+  "preco" : "R$ 1.290,40",
+  "link" : "https://www.kabum.com.br/produto/154435/placa-de-video-pcyes-nvidia-geforce-graffiti-series-gtx-1650-4gb-gddr6-8gbps-pa1650412820dr6"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 6750",
+  "preco" : "R$ 6.299,20",
+  "link" : "https://www.kabum.com.br/produto/510975/placa-de-video-rx-6750-xt-mech-2x-12g-v1-radeon-12gb-gddr6-freesync-dual-fan"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA  RTX A4500 PNY",
+  "preco" : "R$ 12.999,99",
+  "link" : "https://www.kabum.com.br/produto/304859/placa-de-video-quadro-rtx-a4500-pny-nvidia-20gb-gddr6-ray-tracing-vcnrtxa4500-pb"
+}, {
+  "nome" : "Placa de Vídeo   Rtx 3060ti Asus",
+  "preco" : "R$ 599,00",
+  "link" : "https://www.kabum.com.br/produto/332083/bloco-vga-barrow-para-rtx-3060ti-e-3070-asus-strix-bs-ass3070-pa"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  Gtx1050ti",
+  "preco" : "R$ 1.110,57",
+  "link" : "https://www.kabum.com.br/produto/697295/placa-de-video-gtx1050ti-nvidia-4gb-gddr5-clock-7008mhz-128-bit-pci-express-3-0-resolucao-maxima-7680x4320px-displayport-hdmi-e-dvi-alto-desempenho"
+}, {
+  "nome" : "Placa de Vídeo Amd",
+  "preco" : "R$ 279,99",
+  "link" : "https://www.kabum.com.br/produto/720012/placa-mae-fm2-fm2-series-cp-clipset-amda68-a88-16gb-usb-3-0"
+}, {
+  "nome" : "Placa de Vídeo  Geforce rx Geforce",
+  "preco" : "R$ 2.840,91",
+  "link" : "https://www.kabum.com.br/produto/723655/placa-de-video-brx-geforce-rtx-2060-6gb-gddr6-192-bits"
+}, {
+  "nome" : "Placa de Vídeo  Geforce Gtx 1050",
+  "preco" : "R$ 1.699,55",
+  "link" : "https://www.kabum.com.br/produto/688103/placa-de-video-galax-geforce-gtx-1050-ti-1-click-oc-4gb-gddr5-128-bits-dp-hdmi-dvi"
+}, {
+  "nome" : "Placa de Vídeo  Geforce Gtx 1050 Asus",
+  "preco" : "R$ 2.052,00",
+  "link" : "https://www.kabum.com.br/produto/686456/placa-de-video-asus-geforce-gtx-1050-ti-oc-cerberus-edition-4gb-gddr5-128bits"
+}, {
+  "nome" : "Placa de Vídeo  Geforce  Evga",
+  "preco" : "R$ 310,65",
+  "link" : "https://www.kabum.com.br/produto/687545/placa-de-video-evga-geforce-210-1gb-ddr3"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX3060ti",
+  "preco" : "R$ 4.982,25",
+  "link" : "https://www.kabum.com.br/produto/592449/placa-de-video-afox-8gb-geforce-rtx3060ti-gddr6-af3060ti-8192d6h4"
+}, {
+  "nome" : "Placa de Vídeo   RTX 2060",
+  "preco" : "R$ 2.123,94",
+  "link" : "https://www.kabum.com.br/produto/703848/placa-de-video-rtx-2060-super-gddr6-8gb-256bit-graffiti-series-pa2060s25608g6fs"
+}, {
+  "nome" : "Placa de Vídeo   RTX4060 Gainward",
+  "preco" : "R$ 2.627,99",
+  "link" : "https://www.kabum.com.br/produto/716856/vga-gainward-nv-gf-rtx4060-8gb-python-11-gd6-128bits"
+}, {
+  "nome" : "Placa de Vídeo   RTX4060 Inno3d",
+  "preco" : "R$ 3.114,51",
+  "link" : "https://www.kabum.com.br/produto/573743/gpu-nv-rtx4060-8gb-twin-x2-gd6-128-bits-inno3d-n40602-08d6-173051n"
+}, {
+  "nome" : "Placa de Vídeo   RTX5070 Gainward",
+  "preco" : "R$ 6.449,00",
+  "link" : "https://www.kabum.com.br/produto/727081/placa-de-video-rtx5070-12gb-phoenix-gddr7-192bits-gainward-ne75070019k9-gb2050x"
+}, {
+  "nome" : "Placa de Vídeo   RTX 5080 Gainward",
+  "preco" : "R$ 14.925,78",
+  "link" : "https://www.kabum.com.br/produto/723441/placa-de-video-rtx-5080-16gb-phantom-gs-gd7-256b-gainward-ne75080t19t2-gb2030p"
+}, {
+  "nome" : "Placa de Vídeo  Arc Arc A770 Asrock",
+  "preco" : "R$ 2.835,13",
+  "link" : "https://www.kabum.com.br/produto/693442/placa-de-video-asrock-arc-a770-challenger-oc-16gb-gddr6-256-bit-preto"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 5080 Inno3d",
+  "preco" : "R$ 15.449,42",
+  "link" : "https://www.kabum.com.br/produto/728738/placa-de-video-inno3d-geforce-rtx-5080-x3-16gb-gddr7-256bits-n50803-16d7-176068n"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 3050 Inno3d",
+  "preco" : "R$ 1.805,15",
+  "link" : "https://www.kabum.com.br/produto/587840/placa-de-video-rtx-3050-inno3d-geforce-twin-x2-8gb-gddr6-128-bits"
+}, {
+  "nome" : "Placa de Vídeo   Rx6600 Asrock",
+  "preco" : "R$ 2.595,40",
+  "link" : "https://www.kabum.com.br/produto/727722/placa-de-video-asrock-rx6600-8gb-clw-gddr6-128-bits-3x-dp-1x-hdmi-rx6600-clw-8g"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 3050",
+  "preco" : "R$ 1.986,60",
+  "link" : "https://www.kabum.com.br/produto/731093/placa-de-video-pcyes-geforce-rtx-3050-white-6gb-gddr6-96bits-pvrtx30506wtpe"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx 9070 Gigabyte",
+  "preco" : "R$ 7.574,90",
+  "link" : "https://www.kabum.com.br/produto/730825/placa-de-video-gigabyte-amd-radeon-rx-9070-gaming-oc-16gb-gddr6-256bit"
+}, {
+  "nome" : "Placa de Vídeo   Rx550",
+  "preco" : "R$ 513,40",
+  "link" : "https://www.kabum.com.br/produto/679348/placa-de-video-rx550-aitek-delta-rx550"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 3050",
+  "preco" : "R$ 1.953,02",
+  "link" : "https://www.kabum.com.br/produto/731030/placa-de-video-pcyes-geforce-rtx-3050-6gb-gddr6-96bits-pvrtx30506blpe"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 5070",
+  "preco" : "R$ 8.623,99",
+  "link" : "https://www.kabum.com.br/produto/727981/placa-de-video-galax-geforce-rtx-5070-ti-ex-gamer-1-click-oc-16gb-gddr7-256-bit-57izn6mdbuex"
+}, {
+  "nome" : "Placa de Vídeo   Gtx750ti",
+  "preco" : "R$ 689,90",
+  "link" : "https://www.kabum.com.br/produto/576777/placa-de-video-2gb-gf-gtx750ti-pci-e-pcyes-128bits-ddr5-pa750tir5df"
+}, {
+  "nome" : "Placa de Vídeo  Geforce Rtx 3070 Palit",
+  "preco" : "R$ 9.679,99",
+  "link" : "https://www.kabum.com.br/produto/690566/geforce-rtx-3070-8gb-gddr6-256bits-gamingpro-oc-v1-palit-ne63070s19p2-1041a"
+}, {
+  "nome" : "Placa de Vídeo  Geforce",
+  "preco" : "R$ 222,06",
+  "link" : "https://www.kabum.com.br/produto/573198/placa-de-video-pcyes-geforce-gt-610-2gb-gddr3-64-bit-ppe610dr3lpbr"
+}, {
+  "nome" : "Placa de Vídeo  Arc Arc A750 Asrock",
+  "preco" : "R$ 2.249,90",
+  "link" : "https://www.kabum.com.br/produto/693443/placa-de-video-asrock-arc-a750-challenger-d-oc-8gb-gddr6-256-bit-preto"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Rtx 3050",
+  "preco" : "R$ 1.219,99",
+  "link" : "https://www.kabum.com.br/produto/713179/placa-de-video-pcyes-nvidia-geforce-rtx-3050-6gb-gddr6-96bits-pvrtx30506gb"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 5080 Gigabyte",
+  "preco" : "R$ 18.999,00",
+  "link" : "https://www.kabum.com.br/produto/727608/placa-de-video-gigabyte-geforce-rtx-5080-aorus-master-16gb-gddr7-256-bits"
+}, {
+  "nome" : "Placa de Vídeo   RTX 3050 Manli",
+  "preco" : "R$ 1.768,90",
+  "link" : "https://www.kabum.com.br/produto/658071/placa-de-video-manli-rtx-3050-6gb-gddr6-96-bits-dual-fan-1x-dp-1x-hdmi-m-nrtx3050-6rehp-m2587-"
+}, {
+  "nome" : "Placa de Vídeo   Gtx 1050",
+  "preco" : "R$ 2.850,00",
+  "link" : "https://www.kabum.com.br/produto/688364/placa-de-video-pcwinmax-gtx-1050-ti-4gb-gddr5-128bits"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX4060 Asus",
+  "preco" : "R$ 4.241,32",
+  "link" : "https://www.kabum.com.br/produto/592451/placa-de-video-asus-dual-oc-8gb-geforce-rtx4060-gddr6-dual-rtx4060-o8g-evo"
+}, {
+  "nome" : "Placa de Vídeo Nvidia  rx Nvidia",
+  "preco" : "R$ 834,90",
+  "link" : "https://www.kabum.com.br/produto/703430/placa-de-video-brx-nvidia-gt-1030-2gb-gddr5-hdmi-vga"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx 6600",
+  "preco" : "R$ 1.949,99",
+  "link" : "https://www.kabum.com.br/produto/713157/amd-radeon-rx-6600-8gb-gddr6-128bits-superframe-falcon-series-sf-gc-fcam66008gd6w"
+}, {
+  "nome" : "Placa de Vídeo  Radeon Rx7600 Xfx",
+  "preco" : "R$ 3.372,30",
+  "link" : "https://www.kabum.com.br/produto/593203/placa-de-video-xfx-speedster-swft-210-radeon-rx7600-xt-16gb-gddr6-pci-express"
+}, {
+  "nome" : "Placa de Vídeo   RTX 4500 Pny",
+  "preco" : "R$ 26.687,28",
+  "link" : "https://www.kabum.com.br/produto/619539/placa-de-video-quadro-rtx-4500-ada-generation-24gb-gddr6-192bits-pny-vcnrtx4500ada-pb"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx550",
+  "preco" : "R$ 564,25",
+  "link" : "https://www.kabum.com.br/produto/635965/placa-de-v-deo-vx-pro-amd-radeon-rx550-2gb-128bits-rx550-2gd5-vx-pro"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx1050",
+  "preco" : "R$ 1.059,00",
+  "link" : "https://www.kabum.com.br/produto/635959/placa-de-v-deo-vx-pro-nvidia-geforce-gtx1050-ti-4gb-128bits-gtx1050ti-4gd5-vx-pro"
+}, {
+  "nome" : "Placa de Vídeo   RTX4060 Pny",
+  "preco" : "R$ 2.664,75",
+  "link" : "https://www.kabum.com.br/produto/708642/placa-de-video-rtx4060-8gb-gddr6-128bits-dual-fan-verto-pny-vcg40608dfxpb1-o"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Gtx 1660",
+  "preco" : "R$ 1.599,00",
+  "link" : "https://www.kabum.com.br/produto/726514/placa-de-video-nvidia-geforce-gtx-1660-ti-6gb-gddr6-hdmi"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce  Inno3d",
+  "preco" : "R$ 430,70",
+  "link" : "https://www.kabum.com.br/produto/587890/placa-de-video-gt730-inno3d-nvidia-geforce-2gb-sddr3-64bit"
+}, {
+  "nome" : "Placa de Vídeo Nvidia",
+  "preco" : "R$ 173,52",
+  "link" : "https://www.kabum.com.br/produto/453555/placa-de-video-duex-nvidia-gt210-512mb-ddr3-64-bits-g210lp-512md3"
+}, {
+  "nome" : "Placa de Vídeo Amd Radeon Rx 7900 Xfx",
+  "preco" : "R$ 7.439,99",
+  "link" : "https://www.kabum.com.br/produto/713158/amd-radeon-rx-7900-gre-16gb-gddr6-256bits-xfx-rx-79gmercb9"
+}, {
+  "nome" : "Placa de Vídeo  Geforce RTX 5080 Gigabyte",
+  "preco" : "R$ 18.999,00",
+  "link" : "https://www.kabum.com.br/produto/731241/placa-de-video-gigabyte-geforce-rtx-5080-aorus-master-ice-16gb-gddr7-256-bits-gv-n5080aorusm-ice-16gd"
+}, {
+  "nome" : "Placa de Vídeo Nvidia Geforce Rtx 3060",
+  "preco" : "R$ 2.499,00",
+  "link" : "https://www.kabum.com.br/produto/521359/placa-de-video-pcyes-nvidia-geforce-rtx-3060-12gb-ddr6-192-bit-graffiti-series-full-size-dual-fan-pgs3060fs192"
+}, {
+  "nome" : "Placa de Vídeo   RTX 3070",
+  "preco" : "R$ 3.728,30",
+  "link" : "https://www.kabum.com.br/produto/693864/placa-de-video-rtx-3070-g-pro-8gb-gddr6-256-bits-graffiti-"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 MSI",
+  "preco" : "R$ 6.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34894/placa-de-video-msi-nvidia-geforce-rtx-5070-gaming-trio-oc-12gb-gddr7-dlss-ray-tracing-g5070-12gtc"
+}, {
+  "nome" : "Placa de Vídeo  GeForce GTX750TI",
+  "preco" : "R$ 1.004,40",
+  "link" : "https://www.kabum.com.br/produto/150965/placa-de-video-afox-geforce-gtx750ti-2gb-gddr5-128-bits-hdmi-dvi-vga-af750ti-2048d5h5-v7"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1660 Gainward",
+  "preco" : "R$ 5.592,00",
+  "link" : "https://www.kabum.com.br/produto/190108/placa-de-video-gainward-nvidia-geforce-gtx-1660-super-6gb-gddr6-192-bits-dual-fan"
+}, {
+  "nome" : "Placa de Vídeo   Rtx 3080 Msi",
+  "preco" : "R$ 599,00",
+  "link" : "https://www.kabum.com.br/produto/332084/bloco-vga-barrow-para-rtx-3080-ti-e-rtx-3090-msi-gaming-trio-bs-msg3090m-pa"
+}, {
+  "nome" : "Placa de Vídeo  GeForce",
+  "preco" : "R$ 159,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/22046/placa-de-video-afox-geforce-gt-610-1gb-ddr3-64bit-af610-1024d3l5"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 6600 AsRock",
+  "preco" : "R$ 1.579,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-radeon-rx-6600-challenger-white-8gb-gddr6-128-bit-90-ga4uzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 7600 Asus",
+  "preco" : "R$ 1.899,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asus-radeon-rx-7600-dual-evo-oc-edition-8gb-gddr6-128-bit-dual-rx7600-o8g-evo"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 9070 Gigabyte",
+  "preco" : "R$ 5.999,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-gigabyte-radeon-rx-9070-gaming-oc-16gb-gddr6-256-bit-gv-r9070gaming-oc-16gd"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 9070 AsRock",
+  "preco" : "R$ 5.699,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-radeon-rx-9070-challenger-16gb-gddr6-256-bit-90-ga5nzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 5070 MSI",
+  "preco" : "R$ 6.899,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-5070-gaming-trio-oc-12gb-gddr7-192-bit-g5070-12gtc"
+}, {
+  "nome" : "Placa de Vídeo Intel ARC ARC B570 ASRock",
+  "preco" : "R$ 1.999,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-intel-arc-b570-challenger-oc-10gb-gddr6-160-bit-90-ga5kzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo Intel ARC ARC B580 AsRock",
+  "preco" : "R$ 2.459,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-intel-arc-b580-challenger-oc-12gb-gddr6-192-bit-90-ga5lzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 3060 INNO3D",
+  "preco" : "R$ 1.949,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/21631/placa-de-video-inno3d-geforce-rtx-3060-twin-x2-12gb-gddr6-dlss-ray-tracing-n30602-12d6-119032ah"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 6750 XFX",
+  "preco" : "R$ 2.859,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-xfx-radeon-rx-6750-xt-speedster-qick319-12gb-gddr6-192-bit-rx-675xyjfdp"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 6600 ASRock",
+  "preco" : "R$ 1.498,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-radeon-rx-6600-challenger-d-8gb-gddr6-128-bit-90-ga2rzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 580",
+  "preco" : "R$ 729,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-mancer-radeon-rx-580-streaky-8gb-gddr5-256-bit-mcr-rx5808gb-stkv1"
+}, {
+  "nome" : "Placa de Vídeo Intel ARC ARC A380 ASRock",
+  "preco" : "R$ 989,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-intel-arc-a380-challenger-itx-oc-6gb-gddr6-96-bit-90-ga3kzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 7600 AsRock",
+  "preco" : "R$ 1.899,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-radeon-rx-7600-challenger-oc-8gb-gddr6-128-bit-90-ga41zz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 7600 Gigabyte",
+  "preco" : "R$ 1.889,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-gigabyte-radeon-rx-7600-gaming-oc-8gb-gddr6-128-bit-gv-r76gaming-oc-8gd"
+}, {
+  "nome" : "Placa de Vídeo   RTX A1000 PNY",
+  "preco" : "R$ 3.869,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-pny-quadro-rtx-a1000-8gb-gddr6-128-bit-vcnrtxa1000atx-pb-nac"
+}, {
+  "nome" : "Placa de Vídeo Intel ARC ARC A310 ASRock",
+  "preco" : "R$ 869,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-intel-arc-a310-low-profile-4gb-gddr6-64-bit-90-ga4nzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo Intel ARC ARC A770 ASRock",
+  "preco" : "R$ 2.599,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asrock-intel-arc-a770-challenger-oc-16gb-gddr6-256-bit-90-ga4vzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 5090 MSI",
+  "preco" : "R$ 23.999,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-msi-geforce-rtx-5090-gaming-trio-oc-32gb-gddr7-512-bit-g5090-32gtc"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 4060 Asus",
+  "preco" : "R$ 2.599,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-4060-dual-evo-white-oc-edition-8gb-gddr6-128-bit-dual-rtx4060-o8g-evo-white"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 5080 Gigabyte",
+  "preco" : "R$ 12.799,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-gigabyte-geforce-rtx-5080-gaming-oc-16gb-gddr7-256-bit-gv-n5080gaming-oc-16gd"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 5600",
+  "preco" : "R$ 1.249,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-mancer-radeon-rx-5600-streaky-6gb-gddr6-192-bit-mcr-rx5600-stk"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 7600 PowerColor",
+  "preco" : "R$ 1.889,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-powercolor-radeon-rx-7600-fighter-8gb-gddr6-128-bit-rx7600-8g-f"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 3050",
+  "preco" : "R$ 1.249,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-galax-geforce-rtx-3050-ex-oc-6gb-gddr6-96-bit-35nrldhp9oid"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 7800 Gigabyte",
+  "preco" : "R$ 4.599,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-gigabyte-radeon-rx-7800-xt-gaming-oc-16gb-gddr6-256-bit-gv-r78xtgaming-oc-16gd"
+}, {
+  "nome" : "Placa de Vídeo  GeForce RTX 4060 Asus",
+  "preco" : "R$ 2.699,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-asus-geforce-rtx-4060-atlas-shark-v2-oc-edition-8gb-gddr6-128-bit-ats-rtx4060-o8g-v2-gaming"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 6650 XFX",
+  "preco" : "R$ 1.749,99",
+  "link" : "https://www.pichau.com.br/placa-de-video-xfx-radeon-rx-6650-xt-speedster-swft210-8gb-gddr6-128-bit-rx-665x8dfdy"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 Asus",
+  "preco" : "R$ 1.899,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/32738/placa-de-video-asus-dual-amd-radeon-rx-7600-evo-oc-edition-8gb-gddr6-fsr-ray-tracing-dual-rx7600-o8g-evo"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4070 Gigabyte",
+  "preco" : "R$ 4.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25719/placa-de-video-gigabyte-nvidia-geforce-rtx-4070-windforce-oc-12gb-gddr6x-dlss-ray-tracing-gv-n4070wf3oc-12gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Gigabyte",
+  "preco" : "R$ 2.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25235/placa-de-video-gigabyte-nvidia-geforce-rtx-4060-windforce-oc-8gbgddr6-dlss-ray-tracing-gv-n4060wf2oc-8gd"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 6650 XFX",
+  "preco" : "R$ 1.799,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25059/placa-de-video-xfx-speedster-amd-radeon-rx-6650-xt-swft-210-8gb-gddr6-fsr-ray-tracing-rx-665x8dfdy"
+}, {
+  "nome" : "Placa de Vídeo  Radeon RX 6600 ASRock",
+  "preco" : "R$ 1.549,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/19808/placa-de-video-asrock-radeon-rx-6600-challenger-d-8gb-gddr6-fsr-ray-tracing-90-ga2rzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7600 AsRock",
+  "preco" : "R$ 1.899,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25051/placa-de-video-asrock-amd-radeon-rx-7600-challenger-oc-8gb-gddr6-fsr-ray-tracing-90-ga41zz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Asus",
+  "preco" : "R$ 2.699,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/27353/placa-de-video-asus-proart-nvidia-geforce-rtx-4060-oc-8gb-gddr6-dlss-ray-tracing-90yv0jm0-m0na00"
+}, {
+  "nome" : "Placa de Vídeo Intel Arc Arc B580 ASRock",
+  "preco" : "R$ 2.539,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/33427/placa-de-video-asrock-intel-arc-b580-challenger-oc-12gb-gddr6-xess-ray-tracing-b580-cl-12go"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Asus",
+  "preco" : "R$ 2.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/28514/placa-de-video-asus-dual-nvidia-geforce-rtx-4060-evo-oc-8gb-gddr6-dlss-ray-tracing-dual-rtx4060-o8g-evo"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce",
+  "preco" : "R$ 99,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/31212/placa-de-video-vxpro-nvidia-geforce-g210lp-1gb-ddr3-64bit-g210lp-1gd3"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050",
+  "preco" : "R$ 1.379,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/35086/placa-de-video-galax-nvidia-geforce-rtx-3050-ex-6gb-gddr6-dlss-ray-tracing-35nrldhp9oid"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070",
+  "preco" : "R$ 8.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/35082/placa-de-video-galax-nvidia-geforce-rtx-5070-ti-1-click-oc-16gb-gddr7-argb-dlss-ray-tracing-57izn6mdbboc"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5090 Gigabyte",
+  "preco" : "R$ 24.299,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34559/placa-de-video-gigabyte-nvidia-geforce-rtx-5090-aorus-master-32gb-gddr7-dlss-ray-tracing-gv-n5090aorus-m-32gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 Gigabyte",
+  "preco" : "R$ 8.999,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34876/placa-de-video-gigabyte-nvidia-geforce-rtx-5070-ti-eagle-oc-sff-16gb-gddr7-dlss-ray-tracing-gv-n507teagle-oc-16gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 Gigabyte",
+  "preco" : "R$ 9.699,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34875/placa-de-video-gigabyte-nvidia-geforce-rtx-5070-ti-aero-oc-16gb-gddr7-dlss-ray-tracing-gv-n507taero-oc-16gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5070 Asus",
+  "preco" : "R$ 6.599,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34833/placa-de-video-asus-tuf-gaming-nvidia-geforce-rtx-5070-oc-edition-12gb-gddr7-dlss-ray-tracing-90yv0lz0-m0na00"
+}, {
+  "nome" : "Placa de Vídeo Intel Arc Arc B580 Maxsun",
+  "preco" : "R$ 1.979,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34606/placa-de-video-maxsun-intel-arc-b580-milestone-12gb-gddr6-xe2-ray-tracing"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5090 Gigabyte",
+  "preco" : "R$ 21.999,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34545/placa-de-video-gigabyte-nvidia-geforce-rtx-5090-windforce-oc-32gb-gddr7-dlss-ray-tracing-gv-n5090wf3oc-32gd"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5090 Gigabyte",
+  "preco" : "R$ 23.399,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34546/placa-de-video-gigabyte-nvidia-geforce-rtx-5090-gaming-oc-32gb-gddr7-dlss-ray-tracing-gv-n5090gaming-oc-32gd"
+}, {
+  "nome" : "Placa de Vídeo Intel Arc Arc B580",
+  "preco" : "R$ 2.699,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34286/placa-de-video-intel-arc-b580-limited-edition-12gb-gddr6-xe2-ray-tracing-31p06hb0ba"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 5080 Gigabyte",
+  "preco" : "R$ 12.699,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/34106/placa-de-video-gigabyte-nvidia-geforce-rtx-5080-gaming-oc-16gb-gddr7-dlss-ray-tracing-gv-n5080gaming-oc-16gd-10"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1050",
+  "preco" : "R$ 699,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/31188/placa-de-video-vxpro-nvidia-geforce-gtx-1050-ti-4gb-ddr5-128bit-preto-vxgtx1050ti-4gd5"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 1050",
+  "preco" : "R$ 429,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/33888/placa-de-video-vxpro-nvidia-geforce-gtx-1050-2gb-gddr5-128bit-preto-vx-gtx1050-2gd5"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce GTX 750",
+  "preco" : "R$ 399,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/32484/placa-de-video-vx-pro-nvidia-geforce-gtx-750-ti-2gb-gddr5-128bit-gtx750ti-2gd5-full"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Asus",
+  "preco" : "R$ 2.499,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/31733/placa-de-video-asus-dual-nvidia-geforce-rtx-4060-oc-v2-8gb-gddr6-dlss-ray-tracing-dual-rtx4060-o8g-v2"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 Manli",
+  "preco" : "R$ 1.329,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/32546/placa-de-video-manli-nvidia-geforce-rtx-3050-6gb-gddr6-dlss-ray-tracing-m-nrtx30506rehdp-m1586"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 PNY",
+  "preco" : "R$ 2.359,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/32341/placa-de-video-pny-nvidia-geforce-rtx-4060-xlr8-gaming-verto-oc-8gb-gddr6-dlss-ray-tracing-vcg40608dfxpb1-o"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX AMD",
+  "preco" : "R$ 1.219,99 ",
+  "link" : "https://www.terabyteshop.com.br/produto/30511/placa-de-video-brx-amd-radeon-rx-580-16gb-gddr5-256-bits-pvbrx-rx58016gb"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Gainward",
+  "preco" : "R$ 2.389,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/30456/placa-de-video-gainward-nvidia-geforce-rtx-4060-python-ii-8gb-gddr6-dlss-ray-tracing-ne64060019p1-1070v"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA Geforce RTX 3060 Zotac",
+  "preco" : "R$ 2.049,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/29744/placa-de-video-zotac-gaming-nvidia-geforce-rtx-3060-12gb-gddr6-dlss-ray-tracing-zt-a30600p-10m"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 3050 Asus",
+  "preco" : "R$ 1.299,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/27959/placa-de-video-asus-dual-nvidia-geforce-rtx-3050-oc-6gb-gddr6-dlss-ray-tracing"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 Zotac",
+  "preco" : "R$ 2.399,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/27814/placa-de-video-zotac-nvidia-geforce-rtx-4060-twin-edge-oc-8gb-gddr6-dlss-ray-tracing-zt-d40600h-10m"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7800 Sapphire",
+  "preco" : "R$ 4.899,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/27800/placa-de-video-sapphire-pure-amd-radeon-rx-7800-xt-16gb-gddr6-fsr-ray-tracing-11330-03-20g"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7900 AsRock",
+  "preco" : "R$ 7.699,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/24170/placa-de-video-asrock-amd-radeon-rx-7900-xtx-phantom-gaming-oc-24gb-gddr6-fsr-ray-tracing-90-ga3yzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7700 AsRock",
+  "preco" : "R$ 3.199,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25737/placa-de-video-asrock-amd-radeon-rx-7700-xt-challenger-oc-12gb-gddr6-fsr-ray-tracing-90-ga4qzz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo AMD Radeon RX 7800 AsRock",
+  "preco" : "R$ 4.399,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25735/placa-de-video-asrock-amd-radeon-rx-7800-xt-challenger-oc-16gb-gddr6-fsr-ray-tracing-90-ga4szz-00uanf"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 MSI",
+  "preco" : "R$ 3.149,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25374/placa-de-video-msi-nvidia-geforce-rtx-4060-ti-ventus-2x-black-oc-8gb-gddr6-dlss-ray-tracing-912-v515-024"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 INNO3D",
+  "preco" : "R$ 3.199,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25189/placa-de-video-inno3d-nvidia-geforce-rtx-4060-ti-twin-x2-oc-white-8gb-gddr6-dlss-ray-tracing-n406t2-08d6x-171153w"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce RTX 4060 INNO3D",
+  "preco" : "R$ 3.199,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/25187/placa-de-video-inno3d-nvidia-geforce-rtx-4060-ti-x3-oc-8gb-gddr6-dlss-ray-tracing-n406t3-08d6x-171153l"
+}, {
+  "nome" : "Placa de Vídeo NVIDIA GeForce  INNO3D",
+  "preco" : "R$ 319,90 ",
+  "link" : "https://www.terabyteshop.com.br/produto/24570/placa-de-video-inno3d-nvidia-geforce-gt730-2gb-sddr3-64bit-n730-1sdv-e3bx"
+} ]

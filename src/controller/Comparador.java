@@ -35,25 +35,25 @@ public class Comparador {
 
         for (PlacasDeVideo produto : produtos) {
             String nomeFormatado = formatarNome(produto.getNome());
-            if(nomeFormatado == null || nomeFormatado.isEmpty()){
-               continue;
+            if (nomeFormatado == null || nomeFormatado.isEmpty()) {
+                continue;
             }
             produto.setNome(nomeFormatado);
         }
 
         for (int i = 0; i < produtos.size(); i++) {
-            //Seta o produto com menor valor o produto que está no index i
+            // Seta o produto com menor valor o produto que está no index i
             PlacasDeVideo produtoMenorPreco = produtos.get(i);
             for (int j = 0; j < produtos.size(); j++) {
-                //verifica se o produto de index j tem o nome igual ao do produto de index i
+                // verifica se o produto de index j tem o nome igual ao do produto de index i
                 if (produtos.get(i).getNome().equals(produtos.get(j).getNome())) {
-                    //verifica se o produto de index j tem o preço menor que o produto de index i
+                    // verifica se o produto de index j tem o preço menor que o produto de index i
                     if (formatarPreco(produtos.get(j).getPreco()) < formatarPreco(produtos.get(i).getPreco())) {
                         produtoMenorPreco = produtos.get(j);
                     }
                 }
             }
-            if(!menoresPrecos.contains(produtoMenorPreco)){
+            if (!menoresPrecos.contains(produtoMenorPreco)) {
                 menoresPrecos.add(produtoMenorPreco);
             }
         }
@@ -62,20 +62,28 @@ public class Comparador {
     }
 
     private static String formatarNome(String nome) {
-        String nomeLimpo = nome.replaceAll(
-                "(?i)(Placa de Vídeo|Gaming|OC Edition|Super|Dual|Ventus|Eagle|TUF|Speedster|Challenger|1-Click OC|WINDFORCE|Steel Legend|EX Plus)",
-                "");
+        // Padrão para capturar a marca (AMD, NVIDIA, Intel)
+        Pattern marcaPattern = Pattern.compile("(AMD|NVIDIA|Intel)", Pattern.CASE_INSENSITIVE);
+        Matcher marcaMatcher = marcaPattern.matcher(nome);
+        String marca = marcaMatcher.find() ? marcaMatcher.group(1) : "";
 
-        // Extrair fabricante (NVIDIA ou AMD)
-        String fabricante = nome.contains("NVIDIA") ? "NVIDIA" : (nome.contains("AMD") ? "AMD" : "");
+        // Padrão para capturar o tipo da placa (Radeon, GeForce, ARC)
+        Pattern tipoPattern = Pattern.compile("(Radeon|GeForce|ARC)", Pattern.CASE_INSENSITIVE);
+        Matcher tipoMatcher = tipoPattern.matcher(nome);
+        String tipo = tipoMatcher.find() ? tipoMatcher.group(1) : "";
 
-        // Extrair modelo (Exemplo: RTX 3060, RX 6600)
-        Pattern pattern = Pattern.compile("((RTX|GTX|Rx|GT|Arc|Gt|R5|Radeon|Quadro|G|RX)\\s?([0-9]+(?:\\s?[A-Z]*)?)|[A-Za-z]\\w*)");
-        Matcher matcher = pattern.matcher(nomeLimpo);
-        String modelo = matcher.find() ? matcher.group() : "";
+        // Padrão para capturar a nomenclatura (RX 6600, RTX 3060, etc.)
+        Pattern nomenclaturaPattern = Pattern.compile("(RX|RTX|GTX|R9|Arc)\\s?[A-Za-z0-9]+", Pattern.CASE_INSENSITIVE);
+        Matcher nomenclaturaMatcher = nomenclaturaPattern.matcher(nome);
+        String nomenclatura = nomenclaturaMatcher.find() ? nomenclaturaMatcher.group(0) : "";
 
-        // Retornar o nome padronizado
-        return (fabricante + " " + modelo).trim();
+        // Padrão para capturar a fabricante
+        Pattern marcaPlacaPattern = Pattern.compile("(ASUS|Gigabyte|MSI|Zotac|EVGA|PNY|Inno3D|Colorful|Palit|Leadtek|Gainward|ASRock|Sapphire|XFX|PowerColor|VTX3D|Diamond|Club 3D|TUL|Manli|Maxsun)", Pattern.CASE_INSENSITIVE);
+        Matcher marcaPlacaMatcher = marcaPlacaPattern.matcher(nome);
+        String marcaPlaca = marcaPlacaMatcher.find() ? marcaPlacaMatcher.group(1) : "";
+
+        // Construir o nome normalizado
+        return String.format("Placa de Vídeo %s %s %s %s", marca, tipo, nomenclatura, marcaPlaca).trim();
     }
 
     private static Double formatarPreco(String preco) {

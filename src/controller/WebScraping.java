@@ -7,9 +7,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
 
-import Pages.Pichau;
-import Pages.Kabum;
-import Pages.Terabyte;
+import Scrapers.Kabum;
+import Scrapers.Pichau;
+import Scrapers.Terabyte;
 
 public class WebScraping {
 
@@ -34,9 +34,9 @@ public class WebScraping {
         driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(30));
 
         try {
+            Pichau.scrapingPichau(driver);
             Kabum.scrapingKabum(driver);
             Terabyte.scrapingTerabyte(driver);
-            Pichau.scrapingPichau(driver);
         } catch (Exception e) {
             e.printStackTrace();
         }finally{
